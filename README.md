@@ -1,6 +1,6 @@
 # MyedenFocus Website
 
-A responsive website for the MyedenFocus app.
+A responsive website for the MyedenFocus app. <a href="https://myedenfocus.rf.gd/">Go To Website</a>
 
 ![MyedenFocus Website Screenshot](ss.png)
 
